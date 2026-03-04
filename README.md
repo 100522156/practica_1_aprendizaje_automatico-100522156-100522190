@@ -1,1 +1,3 @@
 # practica_1_aprendizaje_automatico-100522156-100522190
+Miguel Merino Sanchez,100522156
+Pablo Garcia Aparicio,100522190
